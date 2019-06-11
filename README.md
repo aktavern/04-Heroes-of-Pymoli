@@ -3,3 +3,4 @@ This is a juypter notebook which calculates various information about the player
 
 Concepts included:
 * pandas
+* jupyter notebook
